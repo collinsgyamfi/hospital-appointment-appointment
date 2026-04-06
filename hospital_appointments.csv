@@ -1,0 +1,301 @@
+appointment_id,patient_age,gender,department,date,status
+1,52,Male,Pediatrics,2/7/2025,Attended
+2,15,Male,Dermatology,2/19/2025,Attended
+3,72,Female,Cardiology,3/23/2025,Attended
+4,61,Male,Pediatrics,1/30/2025,Attended
+5,21,Female,General Medicine,3/20/2025,No-Show
+6,83,Female,Pediatrics,2/20/2025,Attended
+7,87,Female,Pediatrics,3/4/2025,Attended
+8,75,Female,Pediatrics,2/21/2025,Attended
+9,75,Female,ENT,2/7/2025,No-Show
+10,88,Male,Pediatrics,3/29/2025,Attended
+11,24,Male,Dermatology,3/20/2025,No-Show
+12,3,Female,Cardiology,1/30/2025,Cancelled
+13,22,Female,Orthopedics,2/20/2025,Attended
+14,53,Male,Pediatrics,3/22/2025,Attended
+15,2,Male,General Medicine,1/5/2025,Attended
+16,88,Female,Pediatrics,1/29/2025,Attended
+17,30,Male,General Medicine,1/4/2025,Attended
+18,38,Female,Dermatology,1/10/2025,Cancelled
+19,2,Male,General Medicine,2/25/2025,Attended
+20,64,Female,Orthopedics,1/17/2025,Attended
+21,60,Male,Cardiology,3/15/2025,Attended
+22,21,Female,General Medicine,1/17/2025,No-Show
+23,33,Male,General Medicine,3/25/2025,Attended
+24,76,Male,Cardiology,3/29/2025,Attended
+25,58,Female,Orthopedics,3/10/2025,Cancelled
+26,22,Male,Pediatrics,2/3/2025,No-Show
+27,89,Female,General Medicine,1/6/2025,Attended
+28,49,Male,Cardiology,2/22/2025,Attended
+29,59,Female,Dermatology,3/7/2025,No-Show
+30,42,Male,Cardiology,3/18/2025,Attended
+31,60,Female,Dermatology,2/12/2025,Attended
+32,80,Male,Orthopedics,3/16/2025,Attended
+33,15,Female,Pediatrics,1/23/2025,Attended
+34,62,Male,Cardiology,2/24/2025,No-Show
+35,62,Female,ENT,3/21/2025,Cancelled
+36,47,Female,General Medicine,3/16/2025,Attended
+37,62,Female,Orthopedics,1/16/2025,Attended
+38,51,Male,Cardiology,1/8/2025,Attended
+39,55,Female,General Medicine,1/4/2025,Attended
+40,64,Male,Cardiology,1/4/2025,No-Show
+41,3,Female,Dermatology,2/25/2025,Attended
+42,51,Male,Cardiology,1/25/2025,Attended
+43,7,Female,ENT,3/8/2025,Attended
+44,21,Male,Cardiology,3/8/2025,Attended
+45,73,Male,Cardiology,1/27/2025,Attended
+46,39,Female,ENT,2/1/2025,No-Show
+47,18,Male,Orthopedics,2/19/2025,Attended
+48,4,Male,Cardiology,3/2/2025,No-Show
+49,89,Female,ENT,2/20/2025,Attended
+50,60,Male,General Medicine,1/19/2025,Attended
+51,14,Male,Dermatology,1/21/2025,Attended
+52,9,Male,Dermatology,1/5/2025,No-Show
+53,53,Female,Cardiology,3/23/2025,Cancelled
+54,2,Male,Orthopedics,2/11/2025,Attended
+55,84,Female,Orthopedics,3/2/2025,Attended
+56,60,Male,General Medicine,1/22/2025,Cancelled
+57,71,Male,Cardiology,1/21/2025,Attended
+58,44,Male,Dermatology,3/11/2025,Attended
+59,8,Female,Orthopedics,1/1/2025,Cancelled
+60,47,Male,Cardiology,1/5/2025,Attended
+61,35,Male,Orthopedics,1/12/2025,Attended
+62,78,Female,ENT,3/31/2025,Attended
+63,81,Male,Orthopedics,2/15/2025,Attended
+64,36,Female,Dermatology,2/3/2025,Attended
+65,50,Female,Pediatrics,2/18/2025,No-Show
+66,4,Male,General Medicine,3/19/2025,Attended
+67,2,Female,General Medicine,3/31/2025,Attended
+68,6,Male,Dermatology,2/14/2025,Attended
+69,54,Female,Orthopedics,1/27/2025,Attended
+70,4,Female,Cardiology,3/14/2025,Cancelled
+71,54,Male,Orthopedics,1/26/2025,Attended
+72,63,Female,Dermatology,2/16/2025,Attended
+73,18,Female,General Medicine,3/27/2025,No-Show
+74,44,Female,Orthopedics,2/25/2025,Attended
+75,34,Female,General Medicine,3/4/2025,Attended
+76,74,Female,Cardiology,2/17/2025,Attended
+77,62,Male,General Medicine,3/2/2025,Attended
+78,14,Female,General Medicine,3/22/2025,Attended
+79,48,Male,Pediatrics,1/26/2025,Attended
+80,15,Female,Pediatrics,2/5/2025,No-Show
+81,72,Male,ENT,1/1/2025,Attended
+82,78,Male,Pediatrics,1/8/2025,Attended
+83,87,Female,General Medicine,2/21/2025,Attended
+84,62,Female,Dermatology,3/20/2025,Attended
+85,40,Female,General Medicine,2/16/2025,No-Show
+86,85,Male,Dermatology,2/25/2025,Attended
+87,80,Female,Dermatology,3/27/2025,Attended
+88,82,Male,Pediatrics,1/14/2025,No-Show
+89,53,Male,Orthopedics,3/31/2025,Attended
+90,24,Male,Cardiology,1/28/2025,Attended
+91,26,Female,Pediatrics,3/28/2025,Attended
+92,89,Female,Pediatrics,3/19/2025,Attended
+93,60,Male,Orthopedics,3/29/2025,No-Show
+94,41,Male,Cardiology,1/2/2025,Attended
+95,29,Female,General Medicine,1/26/2025,Attended
+96,15,Male,ENT,1/14/2025,Attended
+97,45,Female,ENT,2/28/2025,No-Show
+98,65,Male,General Medicine,2/25/2025,Attended
+99,89,Female,Pediatrics,1/7/2025,No-Show
+100,71,Male,Cardiology,1/3/2025,Attended
+101,9,Female,Pediatrics,1/23/2025,No-Show
+102,88,Male,Dermatology,1/18/2025,Cancelled
+103,1,Female,Pediatrics,2/7/2025,No-Show
+104,8,Female,Pediatrics,1/15/2025,No-Show
+105,88,Male,General Medicine,3/5/2025,Attended
+106,63,Male,General Medicine,3/30/2025,Attended
+107,11,Female,General Medicine,1/28/2025,Attended
+108,81,Male,ENT,3/15/2025,Attended
+109,8,Female,Dermatology,2/8/2025,Attended
+110,35,Male,General Medicine,2/26/2025,Attended
+111,35,Female,Cardiology,1/17/2025,Attended
+112,33,Female,ENT,3/27/2025,Attended
+113,5,Female,Orthopedics,3/31/2025,No-Show
+114,41,Female,Cardiology,2/13/2025,Attended
+115,28,Female,Cardiology,1/25/2025,No-Show
+116,7,Female,General Medicine,1/17/2025,No-Show
+117,73,Male,Orthopedics,1/13/2025,Cancelled
+118,72,Male,Orthopedics,3/25/2025,Attended
+119,12,Male,ENT,1/25/2025,No-Show
+120,34,Female,Orthopedics,3/9/2025,Cancelled
+121,33,Female,Dermatology,1/10/2025,Cancelled
+122,48,Female,General Medicine,3/8/2025,Attended
+123,23,Female,Orthopedics,1/18/2025,Attended
+124,62,Male,ENT,3/27/2025,Attended
+125,88,Male,Dermatology,2/3/2025,Attended
+126,37,Female,Pediatrics,1/8/2025,Attended
+127,44,Male,Pediatrics,2/9/2025,No-Show
+128,86,Male,Dermatology,3/24/2025,No-Show
+129,35,Female,ENT,2/11/2025,Attended
+130,65,Male,Dermatology,2/10/2025,No-Show
+131,47,Female,General Medicine,1/6/2025,Attended
+132,78,Male,General Medicine,2/21/2025,No-Show
+133,3,Female,Pediatrics,1/26/2025,Cancelled
+134,1,Female,Orthopedics,3/5/2025,Attended
+135,5,Female,ENT,2/28/2025,Attended
+136,14,Female,Pediatrics,2/25/2025,No-Show
+137,27,Male,Orthopedics,2/28/2025,Attended
+138,9,Female,Orthopedics,3/11/2025,Attended
+139,79,Female,General Medicine,2/2/2025,No-Show
+140,15,Female,Cardiology,2/22/2025,Attended
+141,42,Male,Cardiology,1/22/2025,No-Show
+142,77,Female,Dermatology,1/21/2025,Attended
+143,51,Male,General Medicine,3/11/2025,No-Show
+144,63,Female,Orthopedics,3/11/2025,Attended
+145,52,Male,ENT,1/4/2025,Cancelled
+146,4,Male,Cardiology,3/16/2025,No-Show
+147,23,Female,Orthopedics,3/3/2025,Attended
+148,15,Male,Cardiology,3/3/2025,Attended
+149,43,Female,Cardiology,1/24/2025,Cancelled
+150,29,Female,Cardiology,2/24/2025,Attended
+151,36,Female,ENT,1/9/2025,Attended
+152,13,Male,General Medicine,1/3/2025,Attended
+153,32,Male,ENT,1/31/2025,Attended
+154,71,Female,Pediatrics,2/9/2025,No-Show
+155,59,Female,Orthopedics,2/5/2025,Attended
+156,86,Male,General Medicine,1/24/2025,Attended
+157,28,Female,General Medicine,1/6/2025,Attended
+158,66,Female,General Medicine,3/7/2025,Attended
+159,42,Female,General Medicine,3/25/2025,Attended
+160,45,Male,ENT,3/16/2025,Attended
+161,62,Male,General Medicine,1/4/2025,Cancelled
+162,57,Male,Dermatology,3/20/2025,Attended
+163,6,Female,Orthopedics,1/6/2025,Attended
+164,28,Female,General Medicine,2/20/2025,No-Show
+165,28,Female,Orthopedics,3/3/2025,Attended
+166,44,Male,Dermatology,2/26/2025,No-Show
+167,84,Female,Dermatology,3/7/2025,Attended
+168,30,Female,Orthopedics,3/20/2025,Attended
+169,62,Female,Cardiology,3/16/2025,Attended
+170,75,Female,Pediatrics,1/8/2025,Attended
+171,89,Male,Cardiology,1/26/2025,No-Show
+172,62,Male,Cardiology,2/20/2025,Attended
+173,1,Female,ENT,2/14/2025,Attended
+174,27,Male,Cardiology,2/13/2025,Attended
+175,62,Male,General Medicine,1/5/2025,Attended
+176,77,Female,ENT,3/11/2025,No-Show
+177,3,Female,ENT,1/26/2025,Attended
+178,70,Male,Dermatology,3/9/2025,Attended
+179,72,Female,Cardiology,1/19/2025,Attended
+180,27,Male,Dermatology,3/25/2025,Attended
+181,9,Female,Orthopedics,1/20/2025,No-Show
+182,62,Male,Pediatrics,1/12/2025,Attended
+183,37,Female,ENT,2/16/2025,No-Show
+184,51,Male,Orthopedics,1/1/2025,Attended
+185,44,Male,Orthopedics,3/31/2025,Attended
+186,24,Male,General Medicine,1/14/2025,Cancelled
+187,79,Female,Pediatrics,3/5/2025,Attended
+188,59,Male,Orthopedics,2/7/2025,Attended
+189,32,Male,Orthopedics,2/6/2025,No-Show
+190,88,Female,Pediatrics,1/11/2025,Attended
+191,52,Female,Pediatrics,3/18/2025,No-Show
+192,62,Male,Orthopedics,1/3/2025,Attended
+193,58,Male,Pediatrics,2/2/2025,Cancelled
+194,52,Female,Orthopedics,1/6/2025,No-Show
+195,12,Female,Orthopedics,2/19/2025,Attended
+196,39,Female,General Medicine,1/10/2025,Cancelled
+197,2,Female,Cardiology,1/5/2025,Attended
+198,3,Female,Orthopedics,1/23/2025,Cancelled
+199,56,Male,Dermatology,1/10/2025,Attended
+200,81,Female,ENT,2/13/2025,Attended
+201,59,Male,Cardiology,1/2/2025,Attended
+202,2,Male,Cardiology,1/13/2025,Attended
+203,2,Male,Cardiology,2/9/2025,Attended
+204,54,Female,General Medicine,1/2/2025,No-Show
+205,87,Male,Orthopedics,3/25/2025,No-Show
+206,1,Male,General Medicine,3/6/2025,Cancelled
+207,19,Female,Orthopedics,3/4/2025,Attended
+208,2,Male,General Medicine,3/14/2025,Attended
+209,53,Male,General Medicine,1/17/2025,Attended
+210,44,Female,ENT,1/9/2025,Attended
+211,32,Male,Dermatology,3/16/2025,Attended
+212,70,Male,General Medicine,1/15/2025,Attended
+213,32,Male,ENT,1/24/2025,No-Show
+214,68,Female,Pediatrics,2/7/2025,Attended
+215,55,Female,Dermatology,2/4/2025,Attended
+216,75,Female,General Medicine,2/18/2025,Attended
+217,56,Male,Cardiology,3/10/2025,Attended
+218,17,Male,Pediatrics,3/3/2025,Attended
+219,38,Female,Pediatrics,3/1/2025,Cancelled
+220,24,Male,ENT,2/19/2025,Attended
+221,69,Male,Pediatrics,3/19/2025,Attended
+222,70,Female,Dermatology,3/16/2025,Attended
+223,86,Female,General Medicine,1/9/2025,No-Show
+224,11,Male,General Medicine,2/3/2025,Cancelled
+225,16,Male,Cardiology,3/17/2025,No-Show
+226,73,Male,ENT,2/4/2025,Attended
+227,59,Female,Cardiology,1/1/2025,Attended
+228,70,Female,Pediatrics,2/9/2025,Attended
+229,80,Female,Cardiology,3/5/2025,Cancelled
+230,3,Female,Dermatology,1/22/2025,No-Show
+231,20,Male,General Medicine,3/1/2025,Attended
+232,59,Female,Pediatrics,3/5/2025,No-Show
+233,36,Female,Cardiology,3/13/2025,No-Show
+234,19,Female,ENT,1/11/2025,Attended
+235,67,Female,Dermatology,1/14/2025,Cancelled
+236,19,Female,Dermatology,3/1/2025,Cancelled
+237,20,Male,Cardiology,1/30/2025,Attended
+238,71,Male,General Medicine,2/4/2025,Attended
+239,52,Female,Cardiology,3/26/2025,Attended
+240,33,Male,Pediatrics,2/6/2025,Attended
+241,40,Female,Cardiology,1/5/2025,Attended
+242,39,Female,Dermatology,3/24/2025,Attended
+243,82,Male,Cardiology,3/19/2025,Cancelled
+244,1,Male,General Medicine,1/26/2025,Attended
+245,11,Female,ENT,3/3/2025,Attended
+246,57,Female,Orthopedics,1/4/2025,Attended
+247,89,Female,Cardiology,3/30/2025,Attended
+248,50,Male,General Medicine,2/11/2025,No-Show
+249,23,Female,General Medicine,3/30/2025,Attended
+250,31,Female,ENT,1/18/2025,Attended
+251,42,Female,Dermatology,2/9/2025,Attended
+252,7,Male,General Medicine,3/13/2025,No-Show
+253,16,Female,General Medicine,2/8/2025,No-Show
+254,60,Female,General Medicine,1/14/2025,Attended
+255,2,Male,General Medicine,2/1/2025,Attended
+256,1,Female,Pediatrics,2/20/2025,Attended
+257,48,Female,Pediatrics,2/7/2025,Attended
+258,12,Male,Dermatology,1/23/2025,Attended
+259,69,Female,Cardiology,3/4/2025,Attended
+260,37,Male,General Medicine,1/15/2025,Attended
+261,32,Male,ENT,1/25/2025,Attended
+262,9,Female,Cardiology,1/17/2025,No-Show
+263,19,Female,ENT,3/7/2025,Attended
+264,48,Female,Cardiology,3/19/2025,Attended
+265,80,Female,Dermatology,2/22/2025,Attended
+266,3,Male,General Medicine,2/20/2025,Attended
+267,20,Female,General Medicine,2/8/2025,No-Show
+268,24,Male,Orthopedics,2/20/2025,Attended
+269,54,Female,ENT,3/11/2025,Attended
+270,33,Female,Cardiology,1/6/2025,No-Show
+271,24,Female,Cardiology,3/8/2025,Attended
+272,75,Male,Pediatrics,1/7/2025,Attended
+273,72,Female,Orthopedics,2/20/2025,No-Show
+274,36,Female,Pediatrics,3/13/2025,Attended
+275,38,Female,Pediatrics,2/11/2025,Attended
+276,84,Female,Pediatrics,3/5/2025,Cancelled
+277,89,Male,ENT,1/15/2025,Attended
+278,25,Female,ENT,1/29/2025,Attended
+279,18,Male,Dermatology,2/2/2025,Attended
+280,82,Male,Dermatology,1/27/2025,Cancelled
+281,66,Male,Pediatrics,2/5/2025,Attended
+282,54,Male,Orthopedics,1/29/2025,Attended
+283,35,Male,Cardiology,2/7/2025,Attended
+284,80,Male,ENT,2/26/2025,Attended
+285,61,Female,Orthopedics,1/27/2025,Attended
+286,41,Male,General Medicine,2/24/2025,Attended
+287,33,Male,ENT,2/2/2025,Attended
+288,68,Male,ENT,3/9/2025,Attended
+289,33,Female,Dermatology,3/27/2025,Attended
+290,14,Female,Cardiology,3/7/2025,Attended
+291,21,Male,Cardiology,1/10/2025,Attended
+292,48,Female,General Medicine,1/5/2025,Attended
+293,20,Male,General Medicine,3/15/2025,No-Show
+294,8,Male,ENT,2/7/2025,Attended
+295,7,Female,Pediatrics,1/13/2025,Attended
+296,67,Male,Dermatology,1/31/2025,Attended
+297,17,Female,Dermatology,2/16/2025,No-Show
+298,33,Female,ENT,3/29/2025,No-Show
+299,48,Male,Orthopedics,2/21/2025,Attended
+300,76,Male,Pediatrics,2/25/2025,Attended
